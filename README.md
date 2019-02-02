@@ -1,4 +1,4 @@
-# MachineLearning-Project
+# Machine Learning Project
 
 ## PUBG Finish Placement Prediction (Kaggle Competition)
 
